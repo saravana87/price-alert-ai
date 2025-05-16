@@ -3,7 +3,6 @@
 📺 Watch demo on YouTube:  
 https://www.youtube.com/watch?v=YOUR_VIDEO_ID
 
-
 A simple price update and alert system using **Google Sheets** and **Google Apps Script**. The script detects changes in product prices and sends email alerts to users when the price changes, with a **10% markup** applied to your internal price.
 
 ## Features
